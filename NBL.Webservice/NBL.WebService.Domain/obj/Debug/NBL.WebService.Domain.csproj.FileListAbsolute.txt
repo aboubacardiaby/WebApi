@@ -1,0 +1,4 @@
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Domain\bin\Debug\NBL.WebService.Domain.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Domain\bin\Debug\NBL.WebService.Domain.pdb
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Domain\obj\Debug\NBL.WebService.Domain.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Domain\obj\Debug\NBL.WebService.Domain.pdb

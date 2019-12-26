@@ -1,0 +1,12 @@
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.pdb
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.Webservice.DataAccess.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Domain.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\EntityFramework.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.Webservice.DataAccess.pdb
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Domain.pdb
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\EntityFramework.xml
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.csprojResolveAssemblyReference.cache
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.dll
+c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.pdb
+C:\Users\MNdev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.dll.config
