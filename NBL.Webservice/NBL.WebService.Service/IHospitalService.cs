@@ -10,5 +10,6 @@ namespace NBL.WebService.Service
     public interface IHospitalService
     {
         void AddNewHospital(Hostpital hospital);
+        Hostpital GetHospital(string Id);
     }
 }

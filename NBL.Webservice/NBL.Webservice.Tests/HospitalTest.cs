@@ -40,7 +40,32 @@ namespace NBL.Webservice.Tests
 
                     throw;
                 }
-                
+
+
+            }
+        }
+
+        [Test]
+        public void GetHospital()
+        {
+            var container = DependencyRegistrar.ContainerConfig.Configure();
+            using (var scope = container.BeginLifetimeScope())
+            {
+                try
+                {
+                    var ExpectedResult = "";
+                    var originalResult = string.Empty;
+                    var app = scope.Resolve<IHospitalService>();
+                    app.GetHospital("1");
+
+                    originalResult = string.Empty;
+                    Assert.AreEqual(ExpectedResult, originalResult);
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
 
             }
         }

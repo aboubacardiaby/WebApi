@@ -20,5 +20,11 @@ namespace NBL.WebService.Service
         {
             _repository.Insert(hospital);
         }
+
+        public Hostpital GetHospital(string Id)
+        {
+            var query = _repository.GetById(Id);
+            return query;
+        }
     }
 }

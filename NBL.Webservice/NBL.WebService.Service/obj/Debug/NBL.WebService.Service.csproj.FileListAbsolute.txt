@@ -10,3 +10,15 @@ c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebServi
 c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.dll
 c:\users\mndev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.pdb
 C:\Users\MNdev\documents\visual studio 2015\Projects\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.dll.config
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.dll.config
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.dll
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Service.pdb
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.Webservice.DataAccess.dll
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Domain.dll
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\EntityFramework.dll
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.Webservice.DataAccess.pdb
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\NBL.WebService.Domain.pdb
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\bin\Debug\EntityFramework.xml
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.csprojResolveAssemblyReference.cache
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.dll
+C:\Users\MNdev\Documents\visual studio 2015\Projects\API\NBL.Webservice\NBL.WebService.Service\obj\Debug\NBL.WebService.Service.pdb
